@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- Banner (add image after generation) -->
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Julissa Eve Morales Banner" width="100%">
+  <img src="https://github.com/J-Moral/J-Moral/blob/main/PortfolioBanner.png" alt="Julissa Eve Morales Banner" width="100%">
 
   <!-- Typing Animation Intro -->
-  <h1>Hi, welcoming to meet Julissa Eve Morales 👋</h1>
+  <h1>Hi, thanks for meeting me !!👋</h1>
 
   <!-- Typing effect using readme-typing-svg -->
   <a href="https://git.io/typing-svg">
@@ -38,8 +38,8 @@
 I am a **Biomedical Engineer** on the path to becoming a **Physician Scientist**, using **data and design to advance healthcare**.  
 I combine analytical precision with creative problem solving, building solutions that merge innovation with empathy.  
 
-- 🧩 **Hackathon Achievement:** Placed **3rd in the Bloomberg x TKH Hackathon**, developing backend logic, scheduling flow, and HTML forms for a peer-matching app.  
-- 💡 Exploring the intersection of **AI, medicine, and human-centered innovation.**  
+- 🧩 **Hackathon Achievement:** Placed **3rd in the Bloomberg x TKH Hackathon**, developing backend logic, scheduling flow, and HTML forms for a peer matching app.  
+- 💡 Exploring the intersection of **AI, medicine, and human centered innovation.**  
 - 🌿 Balancing science, storytelling, and persistence in every project.  
 
 ---
