@@ -26,12 +26,7 @@
   </a>
   <a href="https://github.com/J-Moral">
     <img src="https://img.shields.io/badge/GitHub-J--Moral-000000?logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-8B4513" alt="Portfolio"/>
-  </a>
-</p>
-
+  
 ---
 
 ### 🧠 About Me
