@@ -91,28 +91,10 @@ Focus: **smart matching algorithms, scheduling logic, and user data flow.**
 
 ---
 
-### GitHub Highlights
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=J-Moral&theme=great-gatsby&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=J-Moral&show_icons=true&theme=great-gatsby&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Moral&layout=compact&theme=great-gatsby&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
-### GitHub Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=J-Moral&theme=react-dark)
-
----
-
 ### Live Developer Presence
 <!-- GitHub Readme Stats - LinkedIn Integration  -->
 <!-- Add this later when connecting external services -->
 ![GitHub Activity Tracker](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J-Moral&theme=github_dark)
-
-<!-- Real-time contribution heatmap -->
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com?user=J-Moral&theme=highcontrast&hide_border=true)
 
 ---
 
