@@ -4,7 +4,7 @@
   <img src="https://github.com/J-Moral/J-Moral/blob/main/PortfolioBanner.png" alt="Julissa Eve Morales Banner" width="100%">
 
   <!-- Typing Animation Intro -->
-  <h1>Hi, thanks for meeting me !!👋</h1>
+  <h1> Welcome to my page !!</h1>
 
   <!-- Typing effect using readme-typing-svg -->
   <a href="https://git.io/typing-svg">
@@ -26,7 +26,10 @@
   </a>
   <a href="https://github.com/J-Moral">
     <img src="https://img.shields.io/badge/GitHub-J--Moral-000000?logo=github&logoColor=white" alt="GitHub"/>
-  
+  <a href="mailto:jmorales@wightfoundation.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?logo=gmail&logoColor=white" alt="Email"/>
+</a>
+    
 ---
 
 ### About Me
@@ -42,22 +45,46 @@ I combine analytical precision with creative problem solving, building solutions
 ### Featured Projects
 
 #### Financial Fraud Detection
-A machine learning pipeline to detect fraudulent transactions using **classification algorithms (KNN, SVM, Random Forest)**.  
-Focus: **accuracy optimization, SMOTE resampling, and feature engineering.**  
+*Focus:* **accuracy optimization, SMOTE resampling, and feature engineering.**  
+
+**Goal:** Identify fraudulent financial transactions using machine learning to support risk reduction in banking and digital payment systems.
+
+**Approach:** Built a supervised classification pipeline using KNN, SVM, and Random Forest models. Performed data cleaning, feature engineering, SMOTE resampling, and hyperparameter tuning to address class imbalance and improve accuracy.
+
+**Tools:** Python, pandas, NumPy, scikit-learn, Matplotlib, SMOTE.
+
+**Impact:** Improved fraud detection performance and produced metrics that can support fraud prevention teams in making more accurate and timely decisions.
+
 🔗 [View Project](https://github.com/J-Moral/JM_Financial_Fraud_Detection)
 
 ---
 
 #### Northwind SQL Project
-An analytical SQL exploration of the **Northwind database**, focusing on performance metrics, customer trends, and advanced joins.  
-Focus: **business intelligence queries and real-world data relationships.**  
+*Focus:* **business intelligence queries and real-world data relationships.**  
+
+**Goal:** Analyze business performance trends to support decision making for sales, inventory, and customer management.
+
+**Approach:** Wrote analytical SQL queries to evaluate sales performance, customer demographics, order behavior, and product profitability. Utilized joins, aggregations, subqueries, and performance metrics.
+
+**Tools:** PostgreSQL, SQL, pgAdmin.
+
+**Impact:** Generated insights on customer trends and operational efficiency that can help inform business intelligence and strategic planning.
+
 🔗 [View Project](https://github.com/J-Moral/Northwind_SQL_analysis/tree/main)
 
 ---
 
 #### Virtual Study Buddy App
-A peer matching app connecting students by **subject, study style, and GPA goals** using **Python, Flask, and SQLite.**  
-Focus: **smart matching algorithms, scheduling logic, and user data flow.**  
+*Focus:* **smart matching algorithms, scheduling logic, and user data flow.**  
+
+**Goal:** Design a peer matching system that connects students using study style, subject preference, availability, and GPA goals.
+
+**Approach:** Developed Flask based backend logic, user scheduling flow, and database structure using SQLite. Contributed to early algorithm design for matching students based on profiles and constraints.
+
+**Tools:** Python, Flask, SQLite, HTML.
+
+**Impact:** Supported a tool that showcases academic collaboration and improves study outcomes, earning third place in the Bloomberg and The Knowledge House Hackathon.
+
 🔗 [View Project](https://github.com/imwaymaran/virtual-study-buddy-app)
 
 ---
